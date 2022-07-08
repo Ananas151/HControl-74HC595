@@ -1,0 +1,11 @@
+HControl	                  KEYWORD1
+set	                  KEYWORD2
+dryset         KEYWORD2
+drywrite	        KEYWORD2
+latch	          KEYWORD2
+off	              KEYWORD2
+on	                  KEYWORD2
+toggle	                  KEYWORD2
+clear	        KEYWORD2
+storage	        KEYWORD2
+read	          KEYWORD2
