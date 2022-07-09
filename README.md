@@ -46,7 +46,7 @@ Disables all pins, requires using OE pin.
 ### on()
 Enables all pins, requires using OE pin.
 
-For more detail go to my website http://www.filipmazurek.pl/projekty/HControl
+For more details go to my website http://www.filipmazurek.pl/projekty/HControl
 
 
 
