@@ -1,5 +1,5 @@
 # HControl for 74HC595
-HControl allows for convenient control over 74HC595 (shift register). Allows you to make basic operations with the 74HC595. The library supports daisychaining multiple 74HC595. 
+HControl allows for convenient control over 74HC595 (shift register). Allows you to make basic operations with the 74HC595. The library supports daisychaining multiple 74HC595.
 ## Basic way to connect 74HC595 
 First lets connect VCC and GND:
  - Pin 16 (VCC) and pin 10 (SRCLR) to 5V
@@ -46,7 +46,7 @@ Disables all pins, requires using OE pin.
 ### on()
 Enables all pins, requires using OE pin.
 
-
+For more detail go to my website http://www.filipmazurek.pl/projekty/HControl
 
 
 
